@@ -1,0 +1,26 @@
+Introdução à linguagens de programação 
+
+As linguagens de programação são baseadas em um ou mais paradigmas. Sendo o último caso conhecido como linguagem multiparadigma. Na sua definição formal, é um método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte. 
+E o que é um código fonte? Código fonte é um código que eu gero a partir da minha programação de alto nível. 
+
+Características de um programa
+
+Existem algumas diretrizes para o desenvolvimento de um programa, que são: Legibilidade, Redigibilidade, Confiabilidade e Custo. 
+
+Legibilidade: Código Legível. Facilidade de leitura; compreensão; ortogonalidade (coerência nas instruções); definição adequada das estruturas. 
+
+Redigibilidade: Pode conflitar com a legibilidade. Ortogonalidade; simplicidade da escrita; suporte à abstração; reuso de código; expressividade. 
+
+Confiabilidade: Relacionada ao que seu código foi programado para fazer. 
+Verificação de tipos; trata exceções; uso de ponteiros; compatibilidade entre compliladores. 
+
+Custo: Treinamento; codificação; compilação; execução; infra-estrutura. 
+
+
+O computador analisa um código através de 3 análises de códigos: Léxica, sintática e semântica. 
+
+- Análise Léxica: A primeira fase de um processo de compilação e a função dela é fazer a leitura da fonte, caractere por caractere, letra por letra, agrupar os caracteres e produzir uma sequência. Nesse processo ela vai classificar e eliminar aquilo que não é necessário. 
+
+- Análise Sintática: Define a corretude do programa. A sintaxe de um programa é a forma que ele define através de palavras reservadas de qualquer estrutura relacionada por codificação dentro daquela linguagem específica. 
+
+- Análise Semântica: Relacionada a significado. É o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sinais e símbolos. 

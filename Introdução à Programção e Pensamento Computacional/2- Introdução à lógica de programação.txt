@@ -1,0 +1,38 @@
+O que é Lógica? 
+
+A lógica vem para solucionar algum problema, e esse problema é uma questão.
+Problema é um desvio de percurso, o qual impede de atingir o objetivo que você quer.
+
+Em sua definição formal, a  lógica é uma forma de pensamento estruturada que auxilia a determinar o que é verdadeiro ou não dentro de um contexto. Dentro da linguagem computacional, ela vai fornecer instruções coesas.  
+
+*Para aperfeiçoar seu desenvolvimento em resolução de lógicas é preciso um pouco de treino*
+
+Dentro do contexto de programação existem 3 técnicas de lógica, que são:
+
+-Técnica linear
+-Técnica Estruturada
+-Técnica Modular
+
+Linear: Execução sequenciada. Segue um modelo tradicional, sem vínculo ou estrutura hierárquica. 
+
+Estruturada: Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato). 
+
+Modular: Definição de partes independentes que são controladas por um conjunto de regras e cada módulo tem o seu conjunto específico. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

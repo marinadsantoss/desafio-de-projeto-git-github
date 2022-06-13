@@ -1,0 +1,32 @@
+O pensamento computacional é um processo envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementares no computador. 
+
+- O pensamento computacional não se restringe apenas ao meio computacional, ele é sistemático e eficeinte tanto na formulação, como na resolução de problemas. Por isso ele tem que ser capaz de resolver problemas tanto por uma máquina, quanto por um ser humano. 
+
+Esse pensamento é baseado em 4 pilares, que são: 
+-Decomposição
+-Reconhecimento de padrões
+-Abstração 
+-Design de algoritmos 
+
+Decomposição: consiste em pegar um problema com um certo tipo de complexidade e dividir/segmentar de uma forma que você consiga encontrar problemas menores e resolvíveis dentro daquela complexidade.
+
+Reconhecimento de Padrões: vem da ideia de identificar similaridades e tendências dentro de um contexto ou contextos distintos. 
+
+Abstração: consiste em extrapolar o conceito de algum problema particular/específico para uma forma generalista. Trazer do mundo concreto para o mundo das ideias. 
+
+Design de Algoritmos: Define o passo a passo para a solução do problema.
+
+Os algoritmos (sequência de passos com objetivos definidos) é contruído através de 3 ferramentas: 
+-Narrativa
+-Fluxograma 
+-Pseudocódigo
+
+Narrativa: Utilização da lingauem natural e com diversas interpretações possíveis. 
+
+Fluxograma: Utilização de símbolos pré-definidos. 
+
+Pseudocódigo: Método Portugol, com regras definidas e passos a serem seguidos. 
+
+
+
+
