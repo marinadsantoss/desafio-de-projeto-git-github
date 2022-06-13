@@ -1,2 +1,2 @@
-# desafio-de-projeto-git-github
-Meu Desafio de Projeto
+# Repositório do Desafio de Projeto (Git/GitHub)
+Meu Desafio de Projeto sobre Git/GitHub 
