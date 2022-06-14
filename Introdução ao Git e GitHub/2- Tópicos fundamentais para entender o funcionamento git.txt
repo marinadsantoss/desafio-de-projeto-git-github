@@ -1,0 +1,15 @@
+SHA:  É um algoritmo de Hash Seguro que foi desenvolvido pela NSA (Agência de Segurança Nacional dos Estados Unidos). 
+Ele é um algoritmo que vai pegar o seu arquivo (foto/imagem/frase) e vai embaralhar ele de uma forma muito específica. SHA é uma forma curta de representar o estado de um arquivo. 
+
+- A saída da encriptação (dados encriptados) gera um conjunto de caracteres de 40 dígitos, esses conjuntos de caracteres é único e serve como identificação. Ou seja, sempre que eu rodar um algoritmo no arquivo, ele vai trazer uma chave diferente. Por isso o Git é eficiente para identificar alterações nos seus arquivos. 
+
+Objetivos internos do Git 
+
+Blobs
+-Contém metadados do git: tipo de objeto, tamanho do arquivo, etc.
+
+Tree
+- Armazenam blobs.
+
+Commits
+- Objeto que vai juntar tudo e dar sentido para a alteração que fazemos.

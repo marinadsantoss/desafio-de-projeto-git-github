@@ -1,0 +1,12 @@
+A partir desse ponto, já podemos criar uma conta no GitHub. O processo é fácil como qualquer criação de conta que utliza nome, email, username e senha. 
+
+Link: https://github.com/ 
+
+Chave SSH: Forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+
+- Para criar a Chave SSH é necessário seguir alguns comandos no GitHub e no terminal do Git.
+
+
+Token de acesso pessoal
+
+Nesse tópico, criamos um acesso utilizando nickname, nome e senha, e geramos um token no GitHub para guardar na nossa máquina ou em algum outro lugar seguro. 

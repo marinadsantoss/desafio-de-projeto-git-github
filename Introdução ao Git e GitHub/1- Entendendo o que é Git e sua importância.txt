@@ -1,0 +1,30 @@
+O  Git foi criado em 2005 e é  um sistema de versionamento  de código distribuído que foi feito por Linus Torvalds. Esse sistema ajuda a criar e monitorar diferentes versões do nosso código dentro da máquina. 
+
+- O Git e o GitHub são complementares, mas são diferentes. 
+
+Benefícios do Git
+
+1- Controle de versão
+2- Armazenamento em nuvem
+3- Trabalho em equipe
+4- Melhorar seu código
+5- Reconhecimento
+
+Um terminal precisa receber, antes de tudo, alguns comandos básicos para um bom desempenho.  Alguns desses comandos vão diferenciar dependendo da máquina que você está trabalhando. 
+
+Comandos básicos
+
+Sistema  Windows:                                        
+-cd (mudar de diretório)
+-dir (listar)
+-mkdir (criar diretório)
+-del/rmdir (deletar diretório)
+
+Sistema Unix: 
+-cd (mudar de diretório)
+-ls (listar)
+-mkdir (criar diretórios)
+-rm-rf (deletar)
+
+Para realizar a instalação do Git é necessário ir no site do Git e baixar a sua versão mais recente.
+Link: https://git-scm.com/ 

@@ -1,0 +1,36 @@
+Para iniciar o git e criar um commit, é necessário alguns comandos dentro do terminal do git. O 1º comando é o Git init.
+
+Git init: Esse comando inicializa um conceito do git chamado repositório. Quando usamos o git, de fato, estamos criando um repositório  no git dentro daquele diretório/pasta. 
+
+2º comando - Git add: Esse comando serve para mover arquivos de um estágio para outro. 
+
+3º comando - Git commit: São objetos dos gits que dão significado as alterações e carregam sempre uma mensagem. 
+
+
+Dentro do ciclo de vida dos arquivos no Git existem os arquivos Tracked e Untracked 
+
+Tracked são arquivos que o git tem conhecimento deles, e ele pode subdividir em 3 estágios  diferentes: Unmodified, Modified e Staged. 
+
+Unmodified: É o arquivo que ainda não foi modificado.
+
+Modified: Arquivo que sofreu modificação.
+
+Staged: Conceito chave. Onde ficam os arquivos que estão se preparando para poder fazer parte de outro tipo de agrupamento. 
+
+Como é identificado que o arquivo passou de Unmodified para Modified?
+
+O Git vai comparar o SHA1 dos arquivos e ele vai descobrir que aquele arquivo tem modificação. 
+
+OBS: Se eu tenho um arquivo unmodified e eu removo esse arquivo, ele volta a ser untrucked, ou seja o git não irá ter conhecimento sobre ele. 
+
+- Quando eu movo esse arquivo (unmodified/modified) para o Staged (estágio onde os arquivos ficam aguardando), ele está se preparando para fazer um commit. Quando esses arquivos são colocados no Staged e damos um commit neles, envelopamos todas as modificações realizadas com significados, mensagens que integram o commit, e nesse processo, eles deixam de ser staged e passam a ser commit. 
+
+Depois disso, o commit pega todos aqueles arquivos modificados e faz um snapshot (foto) onde fica salvo aquele código dentro do commit. Então, ele retorna todos esses arquivos para unmodified para começar o ciclo novamente e aguardar novas modificações.
+
+O que um repositório significa?
+
+Dentro do meu ambiente de desenvolvimento, temos o nosso repositório de trabalho, no qual criamos em nossas aulas, e temos também a staging area. 
+
+Os arquivos irão sempre ficar alterando entre repositórios de trabalho e staging area na medida em que eu vou adicionando e modificando novos arquivos nesse repositório. Quando fazemos um commit, ele passa a integrar seu repositório local e esse repositório local por sua vez pode ser empurrado para um repositório remoto.  
+
+É importante lembrar que quando o arquivo é movido da staging area (staged) para o commit, e o commit faz o snapshot e envelopa todas as informações e retorna para o unmodified, esse processo faz popular o seu repositório local. E tudo que está no seu repositório local tem que estar "commitado", caso contrário, você não consegue enviar esse arquivo para um repositório remoto. 
